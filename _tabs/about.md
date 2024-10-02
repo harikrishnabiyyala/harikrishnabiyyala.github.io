@@ -25,7 +25,7 @@ Hi 👋 ,
 
 📌 If you're seeking a software engineer with expertise in web development, React, DevOps, Docker, Kubernetes, Terraform, Ansible, microservices, Spring projects, blockchain, decentralized applications, AWS and Azure, Linux, and release management, I would be thrilled to discuss how my skills and experience can contribute to your organization's success 🚀.
 
-My non-computer passions are computer gaming, basket ball. Reach out to me (email address below) if you have any questions about these types of things, or just want to chat!
+My non-computer passions are video gaming, basket ball. Reach out to me (email address below) if you have any questions about these types of things, or just want to chat!
 
 Contact me
 harikrishnabiyyala@gmail.com
